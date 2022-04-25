@@ -1,5 +1,5 @@
 ---
-- hosts: ATCBLD0001918-VxLanHub
+- hosts: ATCBLD0001918-vxlanhub
   gather_facts: no
 
   tasks:
